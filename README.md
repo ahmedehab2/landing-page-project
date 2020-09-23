@@ -30,6 +30,6 @@ Starter code is cloned from Udacity [fend repository - Landing Page](https://git
 
 ## How To Open
 
-You can preview the page using [this](https://github.com/ahmedehab2/Landing-page-fwd) Link.
+You can preview the page using [this](https://github.com/ahmedehab2/landing-page-project) Link.
 
 Or you can download/clone the repository then open `index.html` using any browser.
